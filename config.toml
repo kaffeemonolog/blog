@@ -12,6 +12,7 @@ publishDir = "docs"
 disqusShortname = "kaffeemonolog-de"
 
 [params]
+  custom_css = ["css/custom.css"]
   slogan = "geschrieben mit liebe"
   description = "Describe your website" # meta description
   author = "KaffeeMonolog"
