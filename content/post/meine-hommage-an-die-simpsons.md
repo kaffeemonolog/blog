@@ -19,3 +19,5 @@ Eingebaute Witze, die zunächst belanglos erscheinen, glänzen in einem ganz and
 Jedes Mal, wenn ich diese Serie von Neuem anfange zu schauen – und ich habe sie in den letzten 28 Jahren fast durchgehend geschaut – entdecke ich neue Details, neue Anspielungen, kann Zusammenhänge knüpfen und erfreue mich an dem intelligenten Humor, der die Simpsons niemals langweilig werden lässt (zumindest nicht für mich ;-)).
 
 Wer noch mehr zu den Simpsons wissen möchte, kann in den Kommentaren oder in einer E-Mail Fragen stellen, die ich gerne versuche zu beantworten.
+
+Bild: https://pixabay.com/photo-3303861/
