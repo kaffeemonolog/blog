@@ -1,8 +1,3 @@
-#disqus_thread {
-  display: none;
-}
-
-#site-title{
-  color: red;
-  display: none;
+.site-title{
+	display: none;
 }
