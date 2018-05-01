@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LGBT on Kaffeemonolog</title>
-    <link>https://kaffeemonolog.de/categories/lgbt/</link>
+    <link>https://kaffeemonolog.github.io/blog/categories/lgbt/</link>
     <description>Recent content in LGBT on Kaffeemonolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
     
-	<atom:link href="https://kaffeemonolog.de/categories/lgbt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaffeemonolog.github.io/blog/categories/lgbt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Another Awesome Post</title>
-      <link>https://kaffeemonolog.de/post/work3/</link>
+      <link>https://kaffeemonolog.github.io/blog/post/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.de/post/work3/</guid>
+      <guid>https://kaffeemonolog.github.io/blog/post/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
