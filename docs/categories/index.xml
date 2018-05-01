@@ -10,5 +10,14 @@
 	<atom:link href="http://kaffeemonolog.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Simpsons</title>
+      <link>http://kaffeemonolog.de/categories/simpsons/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://kaffeemonolog.de/categories/simpsons/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
