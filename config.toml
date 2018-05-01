@@ -4,12 +4,12 @@ theme = "nederburg"
 themeDir = "themes"
 languageCode = "de-de"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 publishDir = "docs"
+disqusShortname = "kaffeemonolog-de"
 
 [params]
   slogan = "geschrieben mit liebe"
