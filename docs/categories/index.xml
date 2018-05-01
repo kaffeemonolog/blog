@@ -6,19 +6,9 @@
     <description>Recent content in Categories on Kaffeemonolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
     
 	<atom:link href="http://kaffeemonolog.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Alles andere</title>
-      <link>http://kaffeemonolog.de/categories/alles-andere/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>http://kaffeemonolog.de/categories/alles-andere/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Simpsons</title>
@@ -26,15 +16,6 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>http://kaffeemonolog.de/categories/simpsons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Werkzeug</title>
-      <link>http://kaffeemonolog.de/categories/werkzeug/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://kaffeemonolog.de/categories/werkzeug/</guid>
       <description></description>
     </item>
     
