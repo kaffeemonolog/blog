@@ -9,6 +9,7 @@ disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
+publishDir = "docs"
 
 [params]
   slogan = "geschrieben mit liebe"
