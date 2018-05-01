@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Meine Hommage an die Simpsons"
 draft = false
-image = "img/portfolio/bart.png"
+image = "img/portfolio/bartlego.jpg"
 showonlyimage = false
 categories = [ "Simpsons" ]
 weight = 1
