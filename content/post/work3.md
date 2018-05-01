@@ -3,7 +3,7 @@ image = "img/portfolio/bridge1.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Another Awesome Post"
-categories = [ "LGBT" ]
+categories = [ "alles andere" ]
 draft = false
 weight = 2
 +++
