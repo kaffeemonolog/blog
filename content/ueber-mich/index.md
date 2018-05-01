@@ -19,7 +19,7 @@ Durch das Studium des Faches Arbeitslehre habe weitreichende Kenntnisse über di
 
 Durch das Studium des Faches Deutsche Philologie konnte ich mir Kompetenzen aneignen, die für die Aufnahme und Interpretation unterschiedlicher Texte nützlich sind. 
 
-__Was erwartet euch hier auf meinem Blog:__
+__Was erwartet Euch hier auf meinem Blog:__
 
 Ich hoffe eine große Vielfalt an neuen, alten und vor allem interessanten Themen!
 
