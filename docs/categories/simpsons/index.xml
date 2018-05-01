@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Kaffeemonolog</title>
-    <link>http://kaffeemonolog.de/post/</link>
-    <description>Recent content in Posts on Kaffeemonolog</description>
+    <title>Simpsons on Kaffeemonolog</title>
+    <link>http://kaffeemonolog.de/categories/simpsons/</link>
+    <description>Recent content in Simpsons on Kaffeemonolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="http://kaffeemonolog.de/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kaffeemonolog.de/categories/simpsons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,26 +18,6 @@
       
       <guid>http://kaffeemonolog.de/post/work2/</guid>
       <description>Die Simpsons ist die zweite Familie, mit der ich aufgewachsen bin. Ich traf auf sie, als ich noch klein war und von den bunten Farben fasziniert war. Aber auch die erste Folge, die ich noch im ZDF sah, aktivierte sofort meine Empathie und meinen Gerechtigkeitssinn gegenüber der Familienmitglieder der Simpsons. Bart wurde von seinen Mitschülern gemobbt und wollte sich mithilfe seines Großvaters wehren (S1-F5 „Bart schlägt eine Schlacht“). Schon allein dieser Zusammenhalt in der Simpsons-Familie, der nicht nur zwischen dem frechen und – wenn es darauf ankommt – fürsorglichen und fairen Bart und seinem Großvater Grampa herrscht, sondern unter allen Familienmitgliedern gepflegt wird, erinnerte mich an viele Momente in meiner Familie.</description>
-    </item>
-    
-    <item>
-      <title>Another Awesome Post</title>
-      <link>http://kaffeemonolog.de/post/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>http://kaffeemonolog.de/post/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Willkommen auf meiner seite</title>
-      <link>http://kaffeemonolog.de/post/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://kaffeemonolog.de/post/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
     </item>
     
   </channel>

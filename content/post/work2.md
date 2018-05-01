@@ -1,35 +1,25 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "This is a Standard Post"
+title = "Meine Hommage an die Simpsons"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/bart.png"
 showonlyimage = false
-categories = [ "Achalasie" ]
+categories = [ "Simpsons" ]
 weight = 1
 +++
 
-This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-<!--more-->
+Die Simpsons ist die zweite Familie, mit der ich aufgewachsen bin. 
+Ich traf auf sie, als ich noch klein war und von den bunten Farben fasziniert war. Aber auch die erste Folge, die ich noch im ZDF sah, aktivierte sofort meine Empathie und meinen Gerechtigkeitssinn gegenüber der Familienmitglieder der Simpsons. 
+Bart wurde von seinen Mitschülern gemobbt und wollte sich mithilfe seines Großvaters wehren (S1-F5 „Bart schlägt eine Schlacht“).
+Schon allein dieser Zusammenhalt in der Simpsons-Familie, der nicht nur zwischen dem frechen und –  wenn es darauf ankommt –  fürsorglichen und fairen Bart und seinem Großvater Grampa herrscht, sondern unter allen Familienmitgliedern gepflegt wird, erinnerte mich an viele Momente in meiner Familie.
+Verrückt, auf die Spitze getrieben und doch herzlich und versöhnlich sind vor allem die ersten Staffeln und die neueren Staffeln dieser wundervollen, absurden und doch sehr realitätsnahen Serie.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+Doch nicht nur die Familiendynamik hielt mich gebannt vor dem Bildschirm:
+Als ich älter wurde und ich die leichtverständlichen, moralischen Aspekte bereits verstanden habe, fielen mir weitere Dinge auf. 
+Die Simpsons sind politisch, gesellschaftlich, philosophisch und geschichtlich (soweit es in einer humoristischen Serie korrekt wiedergegeben werden kann) anspruchsvoll.
+Eingebaute Witze, die zunächst belanglos erscheinen, glänzen in einem ganz anderen Licht, je mehr man kennt, weiß und folglich auch deren Zusammenhänge versteht.
+Jedes Mal, wenn ich diese Serie von Neuem anfange zu schauen – und ich habe sie in den letzten 28 Jahren fast durchgehend geschaut – entdecke ich neue Details, neue Anspielungen, kann Zusammenhänge knüpfen und erfreue mich an dem intelligenten Humor, der die Simpsons niemals langweilig werden lässt (zumindest nicht für mich ;-)).
+
+Wer noch mehr zu den Simpsons wissen möchte, kann in den Kommentaren oder in einer E-Mail Fragen stellen, die ich gerne versuche zu beantworten.
 
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
