@@ -4,6 +4,12 @@
   width: 100%;
 }
 
-#site-title {
+#site-title, #site-footer h1 a{
   font-family: 'Pacifico';
+  text-transform: none;
+  font-size: 3em;
+}
+
+#site-footer h1 a{
+  font-size: 1em;
 }
