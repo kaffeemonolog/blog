@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaffeemonolog</title>
-    <link>https://kaffeemonolog.github.io/blog/</link>
+    <link>http://kaffeemonolog.de/</link>
     <description>Recent content on Kaffeemonolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://kaffeemonolog.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kaffeemonolog.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This is a Standard Post</title>
-      <link>https://kaffeemonolog.github.io/blog/post/work2/</link>
+      <link>http://kaffeemonolog.de/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.github.io/blog/post/work2/</guid>
+      <guid>http://kaffeemonolog.de/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Another Awesome Post</title>
-      <link>https://kaffeemonolog.github.io/blog/post/work3/</link>
+      <link>http://kaffeemonolog.de/post/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.github.io/blog/post/work3/</guid>
+      <guid>http://kaffeemonolog.de/post/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Über mich</title>
-      <link>https://kaffeemonolog.github.io/blog/ueber-mich/</link>
+      <link>http://kaffeemonolog.de/ueber-mich/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.github.io/blog/ueber-mich/</guid>
+      <guid>http://kaffeemonolog.de/ueber-mich/</guid>
       <description>Hallo! Vielseitig interessierte Lehramtsstudentin versucht sich im Blogschreiben. Ob das so gut funktioniert, wird sich im Laufe der Zeit zeigen.
 An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
 Received overcame oh sensible so at an. Formed do change merely to county it.</description>
@@ -44,10 +44,10 @@ Received overcame oh sensible so at an. Formed do change merely to county it.</d
     
     <item>
       <title>Willkommen auf meiner seite</title>
-      <link>https://kaffeemonolog.github.io/blog/post/work1/</link>
+      <link>http://kaffeemonolog.de/post/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.github.io/blog/post/work1/</guid>
+      <guid>http://kaffeemonolog.de/post/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 &lt;/p&gt;</description>
     </item>

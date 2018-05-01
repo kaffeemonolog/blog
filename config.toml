@@ -1,4 +1,4 @@
-baseurl = "https://kaffeemonolog.github.io/blog/"
+baseurl = "http://kaffeemonolog.de/"
 title = "Kaffeemonolog"
 theme = "nederburg"
 themeDir = "themes"

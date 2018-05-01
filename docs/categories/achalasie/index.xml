@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Achalasie on Kaffeemonolog</title>
-    <link>https://kaffeemonolog.github.io/blog/categories/achalasie/</link>
+    <link>http://kaffeemonolog.de/categories/achalasie/</link>
     <description>Recent content in Achalasie on Kaffeemonolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://kaffeemonolog.github.io/blog/categories/achalasie/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kaffeemonolog.de/categories/achalasie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This is a Standard Post</title>
-      <link>https://kaffeemonolog.github.io/blog/post/work2/</link>
+      <link>http://kaffeemonolog.de/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.github.io/blog/post/work2/</guid>
+      <guid>http://kaffeemonolog.de/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;</description>
     </item>

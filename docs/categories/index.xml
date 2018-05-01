@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kaffeemonolog</title>
-    <link>https://kaffeemonolog.github.io/blog/categories/</link>
+    <link>http://kaffeemonolog.de/categories/</link>
     <description>Recent content in Categories on Kaffeemonolog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://kaffeemonolog.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kaffeemonolog.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Achalasie</title>
-      <link>https://kaffeemonolog.github.io/blog/categories/achalasie/</link>
+      <link>http://kaffeemonolog.de/categories/achalasie/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.github.io/blog/categories/achalasie/</guid>
+      <guid>http://kaffeemonolog.de/categories/achalasie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LGBT</title>
-      <link>https://kaffeemonolog.github.io/blog/categories/lgbt/</link>
+      <link>http://kaffeemonolog.de/categories/lgbt/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.github.io/blog/categories/lgbt/</guid>
+      <guid>http://kaffeemonolog.de/categories/lgbt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Werkzeug</title>
-      <link>https://kaffeemonolog.github.io/blog/categories/werkzeug/</link>
+      <link>http://kaffeemonolog.de/categories/werkzeug/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://kaffeemonolog.github.io/blog/categories/werkzeug/</guid>
+      <guid>http://kaffeemonolog.de/categories/werkzeug/</guid>
       <description></description>
     </item>
     
