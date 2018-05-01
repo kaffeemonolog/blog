@@ -64,7 +64,7 @@
     </p>
   </nav>-->
 
-  <div class="entry-categories"><p><span>Categories</span>
+  <div class="entry-categories"><p><span>Kategorien</span>
     {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
     <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}" title="View all posts in {{ $name }}">{{ $name }}</a>{{ end }}
   </p>

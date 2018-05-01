@@ -3,7 +3,7 @@ title: "Meine Hommage an die Simpsons"
 date: 2018-05-01T14:45:44+02:00
 draft: false
 image: "img/portfolio/bartlego.jpg"
-categories: [ "Simpsons" ]
+categories: [ "simpsons" ]
 ---
 
 Die Simpsons ist die zweite Familie, mit der ich aufgewachsen bin. 
