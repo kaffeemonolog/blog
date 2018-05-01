@@ -1,13 +1,9 @@
-+++
-date = "2016-11-05T19:41:01+05:30"
-
-title = "Meine Hommage an die Simpsons"
-draft = false
-image = "img/portfolio/bartlego.jpg"
-showonlyimage = false
-categories = [ "Simpsons" ]
-weight = 1
-+++
+---
+title: "Meine Hommage an die Simpsons"
+date: 2018-05-01T14:45:44+02:00
+draft: false
+image: "img/portfolio/bartlego.jpg"
+---
 
 Die Simpsons ist die zweite Familie, mit der ich aufgewachsen bin. 
 Ich traf auf sie, als ich noch klein war und von den bunten Farben fasziniert war. Aber auch die erste Folge, die ich noch im ZDF sah, aktivierte sofort meine Empathie und meinen Gerechtigkeitssinn gegenüber der Familienmitglieder der Simpsons. 
@@ -22,5 +18,3 @@ Eingebaute Witze, die zunächst belanglos erscheinen, glänzen in einem ganz and
 Jedes Mal, wenn ich diese Serie von Neuem anfange zu schauen – und ich habe sie in den letzten 28 Jahren fast durchgehend geschaut – entdecke ich neue Details, neue Anspielungen, kann Zusammenhänge knüpfen und erfreue mich an dem intelligenten Humor, der die Simpsons niemals langweilig werden lässt (zumindest nicht für mich ;-)).
 
 Wer noch mehr zu den Simpsons wissen möchte, kann in den Kommentaren oder in einer E-Mail Fragen stellen, die ich gerne versuche zu beantworten.
-
-
